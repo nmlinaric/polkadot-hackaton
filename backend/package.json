@@ -1,0 +1,14 @@
+{
+  "name": "polkadot-backend",
+  "version": "1.0.0",
+  "description": "Displays information about the latest block on Kusama",
+  "author": "nmlinaric",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@polkadot/api": "^2.3.1"
+  }
+}
